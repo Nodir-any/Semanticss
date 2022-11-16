@@ -4,7 +4,7 @@
 Lightweight CSS3 framework mainly focused on typography responsiveness,
 and aesthetic looks as well as full customizing flexibility.
 
-![Semanticss v1.0.0.22]("https://github.com/Nodir-any/Semanticss/graphical_assets/semanticss-svg.svg)
+![Semanticss v1.0.0.22]("https://github.com/Nodir-any/Semanticss/blob/main/graphical-assets/transparent_semanticss_blue.png")
 
 ## Preset utilitie and component classes
 
