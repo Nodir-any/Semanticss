@@ -1,8 +1,8 @@
 ---
 
-# Semanticss v1.0.0.22(tm)
-Lightweight CSS3 framework mainly focused on typography responsiveness,
-and aesthetic looks as well as full customizing flexibility.
+<h1 align="center">Semanticss v1.0.0.22</h1>
+<p align="center">Lightweight CSS3 framework mainly focused on typography responsiveness,
+</br>and aesthetic looks as well as full customizing flexibility.</p>
 
 <div align="center">
   <img src="https://github.com/Nodir-any/Semanticss/blob/main/graphical-assets/transparent_semanticss_blue.png" width="40%" height="20%" alt="Semanticss logo">
@@ -12,25 +12,25 @@ and aesthetic looks as well as full customizing flexibility.
 
 | Utilities | Description |
 | --------- | ----------- |
-| fs--200   | roughly 13.5 px __font-size__ can grow or shrink accordingly to device |
-| fs--100   | roughly 15.5 px __font-size__ can grow or shrink accordingly to device |
-| fs-base   | roughly 20 px __font-size__ can grow or shrink accordingly to device |
-| fs-100   | roughly 24.2 px __font-size__ can grow or shrink accordingly to device |
-| fs-200   | roughly 27.5 px __font-size__ can grow or shrink accordingly to device |
-| fs-300   | roughly 31.5 px __font-size__ can grow or shrink accordingly to device |
-| fs-400   | roughly 50.5 px __font-size__ can grow or shrink accordingly to device |
-| fs-500   | roughly 70 px __font-size__ can grow or shrink accordingly to device |
+| fs--200    | __`font-size`__ can grow or shrink accordingly to device |
+| fs--100    | __`font-size`__ can grow or shrink accordingly to device |
+| fs-base    | __`font-size`__ can grow or shrink accordingly to device |
+| fs-100     | __`font-size`__ can grow or shrink accordingly to device |
+| fs-200     | __`font-size`__ can grow or shrink accordingly to device |
+| fs-300     | __`font-size`__ can grow or shrink accordingly to device |
+| fs-400     | __`font-size`__ can grow or shrink accordingly to device |
+| fs-500     | __`font-size`__ can grow or shrink accordingly to device |
 | --------- | ----------- |
-| m--200 or m--2   | roughly 13.5 px __margin__ can grow or shrink accordingly to device |
-| m--100 or m--1  | roughly 15.5 px __margin__ can grow or shrink accordingly to device |
-| m-base  | roughly 20 px __margin__ can grow or shrink accordingly to device |
-| m-100  or m-1 | roughly 24.2 px __margin__ can grow or shrink accordingly to device |
-| m-200  or m-2 | roughly 27.5 px __margin__ can grow or shrink accordingly to device |
-| m-300  or m-3 | roughly 31.5 px __margin__ can grow or shrink accordingly to device |
-| m-400  or m-4 | roughly 50.5 px __margin__ can grow or shrink accordingly to device |
-| m-500  or m-5 | roughly 70 px __margin__ can grow or shrink accordingly to device |
-| m-600  or m-6 | roughly 82 px __margin__ can grow or shrink accordingly to device |
-| m-700  or m-7 | roughly 90 px __margin__ can grow or shrink accordingly to device |
+| m--200 or m--2   | __`margin`__ can grow or shrink accordingly to device |
+| m--100 or m--1   | __`margin`__ can grow or shrink accordingly to device |
+| m-base           | __`margin`__ can grow or shrink accordingly to device |
+| m-100  or m-1    | __`margin`__ can grow or shrink accordingly to device |
+| m-200  or m-2    | __`margin`__ can grow or shrink accordingly to device |
+| m-300  or m-3    | __`margin`__ can grow or shrink accordingly to device |
+| m-400  or m-4    | __`margin`__ can grow or shrink accordingly to device |
+| m-500  or m-5    | __`margin`__ can grow or shrink accordingly to device |
+| m-600  or m-6    | __`margin`__ can grow or shrink accordingly to device |
+| m-700  or m-7    | __`margin`__ can grow or shrink accordingly to device |
 | --------- | ------------ |
 | mtop-base  | roughly 20 px __margin-top__ can grow or shrink accordingly to device |
 | mtop-100  or mt-1 | roughly 24.2 px __margin-top__ can grow or shrink accordingly to device |
