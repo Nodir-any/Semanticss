@@ -12,44 +12,52 @@
 
 | Utilities | Description |
 | --------- | ----------- |
-| fs--200    | __`font-size`__ can grow or shrink accordingly to device |
-| fs--100    | __`font-size`__ can grow or shrink accordingly to device |
-| fs-base    | __`font-size`__ can grow or shrink accordingly to device |
-| fs-100     | __`font-size`__ can grow or shrink accordingly to device |
-| fs-200     | __`font-size`__ can grow or shrink accordingly to device |
-| fs-300     | __`font-size`__ can grow or shrink accordingly to device |
-| fs-400     | __`font-size`__ can grow or shrink accordingly to device |
-| fs-500     | __`font-size`__ can grow or shrink accordingly to device |
-| --------- | ----------- |
-| m--200 or m--2   | __`margin`__ can grow or shrink accordingly to device |
-| m--100 or m--1   | __`margin`__ can grow or shrink accordingly to device |
-| m-base           | __`margin`__ can grow or shrink accordingly to device |
-| m-100  or m-1    | __`margin`__ can grow or shrink accordingly to device |
-| m-200  or m-2    | __`margin`__ can grow or shrink accordingly to device |
-| m-300  or m-3    | __`margin`__ can grow or shrink accordingly to device |
-| m-400  or m-4    | __`margin`__ can grow or shrink accordingly to device |
-| m-500  or m-5    | __`margin`__ can grow or shrink accordingly to device |
-| m-600  or m-6    | __`margin`__ can grow or shrink accordingly to device |
-| m-700  or m-7    | __`margin`__ can grow or shrink accordingly to device |
-| --------- | ------------ |
-| mtop-base  | roughly 20 px __margin-top__ can grow or shrink accordingly to device |
-| mtop-100  or mt-1 | roughly 24.2 px __margin-top__ can grow or shrink accordingly to device |
-| mtop-200  or mt-2 | roughly 27.5 px __margin-top__ can grow or shrink accordingly to device |
-| mtop-300  or mt-3 | roughly 31.5 px __margin-top__ can grow or shrink accordingly to device |
-| mtop-400  or mt-4 | roughly 50.5 px __margin-top__ can grow or shrink accordingly to device |
-| mtop-500  or mt-5 | roughly 70 px __margin-top__ can grow or shrink accordingly to device |
-| mtop-600  or mt-6 | roughly 82 px __margin-top__ can grow or shrink accordingly to device |
-| mtop-700  or mt-7 | roughly 90 px __margin-top__ can grow or shrink accordingly to device |
-| --------- | ------------ |
-| mbottom-base  | roughly 20 px __margin-bottom__ can grow or shrink accordingly to device |
-| mbottom-100  or mb-1 | roughly 24.2 px __margin-bottom__ can grow or shrink accordingly to device |
-| mbottom-200  or mb-2 | roughly 27.5 px __margin-bottom__ can grow or shrink accordingly to device |
-| mbottom-300  or mb-3 | roughly 31.5 px __margin-bottom__ can grow or shrink accordingly to device |
-| mbottom-400  or mb-4 | roughly 50.5 px __margin-bottom__ can grow or shrink accordingly to device |
-| mbottom-500  or mb-5 | roughly 70 px __margin-bottom__ can grow or shrink accordingly to device |
-| mbottom-600  or mb-6 | roughly 82 px __margin-bottom__ can grow or shrink accordingly to device |
-| mbottom-700  or mb-7 | roughly 90 px __margin-bottom__ can grow or shrink accordingly to device |
-| --------- | ------------ |
+| fs--200    | __`font-size`__ can grow or shrink accordingly to device's screen width |
+| fs--100    | __`font-size`__ can grow or shrink accordingly to device's screen width |
+| fs-base    | __`font-size`__ can grow or shrink accordingly to device's screen width |
+| fs-100     | __`font-size`__ can grow or shrink accordingly to device's screen width |
+| fs-200     | __`font-size`__ can grow or shrink accordingly to device's screen width |
+| fs-300     | __`font-size`__ can grow or shrink accordingly to device's screen width |
+| fs-400     | __`font-size`__ can grow or shrink accordingly to device's screen width |
+| fs-500     | __`font-size`__ can grow or shrink accordingly to device's screen width |
+
+|  |  |
+
+| m--200 or m--2   | __`margin`__ can grow or shrink accordingly to device's screen width |
+| m--100 or m--1   | __`margin`__ can grow or shrink accordingly to device's screen width |
+| m-base           | __`margin`__ can grow or shrink accordingly to device's screen width |
+| m-100  or m-1    | __`margin`__ can grow or shrink accordingly to device's screen width |
+| m-200  or m-2    | __`margin`__ can grow or shrink accordingly to device's screen width |
+| m-300  or m-3    | __`margin`__ can grow or shrink accordingly to device's screen width |
+| m-400  or m-4    | __`margin`__ can grow or shrink accordingly to device's screen width |
+| m-500  or m-5    | __`margin`__ can grow or shrink accordingly to device's screen width |
+| m-600  or m-6    | __`margin`__ can grow or shrink accordingly to device's screen width |
+| m-700  or m-7    | __`margin`__ can grow or shrink accordingly to device's screen width |
+
+|  |  |
+
+| mtop-base         | __`margin-top`__ can grow or shrink accordingly to device's screen width |
+| mtop-100  or mt-1 | __`margin-top`__ can grow or shrink accordingly to device's screen width |
+| mtop-200  or mt-2 | __`margin-top`__ can grow or shrink accordingly to device's screen width |
+| mtop-300  or mt-3 | __`margin-top`__ can grow or shrink accordingly to device's screen width |
+| mtop-400  or mt-4 | __`margin-top`__ can grow or shrink accordingly to device's screen width |
+| mtop-500  or mt-5 | __`margin-top`__ can grow or shrink accordingly to device's screen width |
+| mtop-600  or mt-6 | __`margin-top`__ can grow or shrink accordingly to device's screen width |
+| mtop-700  or mt-7 | __`margin-top`__ can grow or shrink accordingly to device's screen width |
+
+|  |  |
+
+| mbottom-base         | __`margin-bottom`__ can grow or shrink accordingly to device's screen width |
+| mbottom-100  or mb-1 | __`margin-bottom`__ can grow or shrink accordingly to device's screen width |
+| mbottom-200  or mb-2 | __`margin-bottom`__ can grow or shrink accordingly to device's screen width |
+| mbottom-300  or mb-3 | __`margin-bottom`__ can grow or shrink accordingly to device's screen width |
+| mbottom-400  or mb-4 | __`margin-bottom`__ can grow or shrink accordingly to device's screen width |
+| mbottom-500  or mb-5 | __`margin-bottom`__ can grow or shrink accordingly to device's screen width |
+| mbottom-600  or mb-6 | __`margin-bottom`__ can grow or shrink accordingly to device's screen width |
+| mbottom-700  or mb-7 | __`margin-bottom`__ can grow or shrink accordingly to device's screen width |
+
+|  |  |
+
 | mleft-base  | roughly 20 px __margin-left__ can grow or shrink accordingly to device |
 | mleft-100  or ml-1 | roughly 24.2 px __margin-left__ can grow or shrink accordingly to device |
 | mleft-200  or ml-2 | roughly 27.5 px __margin-left__ can grow or shrink accordingly to device |
