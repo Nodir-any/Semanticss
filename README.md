@@ -8,18 +8,18 @@
   <img src="https://github.com/Nodir-any/Semanticss/blob/main/graphical-assets/transparent_semanticss_blue.png" width="40%" height="20%" alt="Semanticss logo">
 </div>
 
-##Setup
+<h2>Setup</h2>
 create and `cd` into the folder
  
-###Run
+<h3>Run</h3>
 to initialise npm and create __package.json__ file
 
-`npm init -y`
+```npm init -y```
 
-###Next
+<h3>Next</h3>
 to install all the needed files
 
-`npm i semanticss`
+```npm i semanticss```
 
 >Copy all the files in __node_modules__ folder and paste them in your project folder
 >Open __index.html__ file in your browser to see if it is working properly
