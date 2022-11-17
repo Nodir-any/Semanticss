@@ -41,16 +41,16 @@ npm i semanticss
 | fs-400     | __`font-size`__ can grow or shrink accordingly to device's screen width |
 | fs-500     | __`font-size`__ can grow or shrink accordingly to device's screen width |
 | --------- | ----------- |
-| m--200 or m--2   | roughly 13.5 px __margin__ can grow or shrink accordingly to device |
-| m--100 or m--1  | roughly 15.5 px __margin__ can grow or shrink accordingly to device |
-| m-base  | roughly 20 px __margin__ can grow or shrink accordingly to device |
-| m-100  or m-1 | roughly 24.2 px __margin__ can grow or shrink accordingly to device |
-| m-200  or m-2 | roughly 27.5 px __margin__ can grow or shrink accordingly to device |
-| m-300  or m-3 | roughly 31.5 px __margin__ can grow or shrink accordingly to device |
-| m-400  or m-4 | roughly 50.5 px __margin__ can grow or shrink accordingly to device |
-| m-500  or m-5 | roughly 70 px __margin__ can grow or shrink accordingly to device |
-| m-600  or m-6 | roughly 82 px __margin__ can grow or shrink accordingly to device |
-| m-700  or m-7 | roughly 90 px __margin__ can grow or shrink accordingly to device |
+| m--200 or m--2   |  __`margin`__ can grow or shrink accordingly to device |
+| m--100 or m--1  |  __`margin`__ can grow or shrink accordingly to device |
+| m-base  |  __`margin`__ can grow or shrink accordingly to device |
+| m-100  or m-1 |  __`margin`__ can grow or shrink accordingly to device |
+| m-200  or m-2 |  __`margin`__ can grow or shrink accordingly to device |
+| m-300  or m-3 |  __`margin`__ can grow or shrink accordingly to device |
+| m-400  or m-4 |  __`margin`__ can grow or shrink accordingly to device |
+| m-500  or m-5 |  __`margin`__ can grow or shrink accordingly to device |
+| m-600  or m-6 |  __`margin`__ can grow or shrink accordingly to device |
+| m-700  or m-7 |  __`margin`__ can grow or shrink accordingly to device |
 | --------- | ------------ |
 | mtop-base  | roughly 20 px __margin-top__ can grow or shrink accordingly to device |
 | mtop-100  or mt-1 | roughly 24.2 px __margin-top__ can grow or shrink accordingly to device |
