@@ -8,6 +8,22 @@
   <img src="https://github.com/Nodir-any/Semanticss/blob/main/graphical-assets/transparent_semanticss_blue.png" width="40%" height="20%" alt="Semanticss logo">
 </div>
 
+##Setup
+create and `cd` into the folder
+ 
+###Run
+to initialise npm and create __package.json__ file
+
+`npm init -y`
+
+###Next
+to install all the needed files
+
+`npm i semanticss`
+
+>Copy all the files in __node_modules__ folder and paste them in your project folder
+>Open __index.html__ file in your browser to see if it is working properly
+
 ## Preset utility and component classes
 
 | Utilities | Description |
