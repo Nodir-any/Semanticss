@@ -1,10 +1,10 @@
 ---
 
-<h1 align="center">Semanticss v1.0.0.22</h1>
-<p align="center">Lightweight CSS3 framework mainly focused on typography responsiveness,
+<h1>Semanticss v1.0.0.22</h1>
+<p>Lightweight CSS3 framework mainly focused on typography responsiveness,
 </br>and aesthetic looks as well as full customizing flexibility.</p>
 
-<div align="center">
+<div>
   <img src="https://github.com/Nodir-any/Semanticss/blob/main/graphical-assets/transparent_semanticss_blue.png" width="40%" height="20%" alt="Semanticss logo">
 </div>
 
