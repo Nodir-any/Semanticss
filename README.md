@@ -125,7 +125,7 @@ npm i semanticss
 | ptop-500  or pt-5 | roughly 70 px __padding-top__ can grow or shrink accordingly to device |
 | ptop-600  or pt-6 | roughly 82 px __padding-top__ can grow or shrink accordingly to device |
 | ptop-700  or pt-7 | roughly 70 px __padding-top__ can grow or shrink accordingly to device |
-| --------- | ------------ |
+| --------- | ------------- |
 | pbottom-base  | roughly 20 px __padding-bottom__ can grow or shrink accordingly to device |
 | pbottom-100  or pb-1 | roughly 24.2 px __padding-bottom__ can grow or shrink accordingly to device |
 | pbottom-200  or pb-2 | roughly 27.5 px __padding-bottom__ can grow or shrink accordingly to device |
