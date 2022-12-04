@@ -9,10 +9,10 @@
 </div>
 
 <h2>Setup</h2>
-create and `cd` into the folder
+create and ` cd ` into the folder
  
 <h3>Run</h3>
-to initialise npm and create --package.json-- file
+to initialise npm and create #### package.json file
 
 ```js
 npm init -y
