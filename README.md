@@ -12,7 +12,7 @@
 create and `cd` into the folder
  
 <h3>Run</h3>
-to initialise npm and create __ package.json __ file
+to initialise npm and create --package.json-- file
 
 ```js
 npm init -y
