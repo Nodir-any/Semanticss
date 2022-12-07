@@ -13,12 +13,14 @@ create and cd into the folder
  
 <h3>Run</h3>
 
-to initialise npm and create ___package.json___ file
+to initialise npm and create ___package.json___ file, type ..
 
 
 ```js
 npm init -y
 ```
+
+.. in your cmd or terminal
 
 <h3>Next</h3>
 to install all the needed files
