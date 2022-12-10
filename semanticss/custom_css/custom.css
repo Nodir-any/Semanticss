@@ -53,7 +53,7 @@ ul{
 
 .iam{
 	font-weight: 600;
-	color: rgba(255,100,0,1);
+	color: rgba(255,100,0,.8);
 	transition: color, text-decoration;
 	transition-timing-function: ease;
 	transition-duration: 1600ms;
