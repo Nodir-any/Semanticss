@@ -1,6 +1,6 @@
 ---
 
-<h1>Semanticss v1.0.0.22</h1>
+<h1>Semanticss v1.0.1.22</h1>
 <p>Lightweight CSS3 framework mainly focused on typography responsiveness,
 </br>and aesthetic looks as well as full customizing flexibility.</p>
 
