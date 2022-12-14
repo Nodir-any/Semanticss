@@ -1,6 +1,8 @@
 body {font-family: Arial, Helvetica, sans-serif;}
 * {box-sizing: border-box;}
 
+.container{width: 50vw;}
+
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
