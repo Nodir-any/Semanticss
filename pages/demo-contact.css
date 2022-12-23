@@ -32,3 +32,10 @@ input[type=submit]:hover {
   background-color: #f2f2f2;
   padding: 20px;
 }
+
+
+@media screen only and (min-width: 700px){
+  .container{
+    width: 90vw;
+  }
+}
