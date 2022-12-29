@@ -37,7 +37,7 @@ npm i semanticss
 ## Preset utility and component classes
 
 | Utilities | Description |
-| --------- | ----------- |
+| --------- | ------------- |
 | fs--200    | __`font-size`__ can grow or shrink accordingly to device's screen width |
 | fs--100    | __`font-size`__ can grow or shrink accordingly to device's screen width |
 | fs-base    | __`font-size`__ can grow or shrink accordingly to device's screen width |
